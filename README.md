@@ -1,3 +1,3 @@
-# Wireless-Sensor-Network-Non-stationrity
+# Wireless-Sensor-Network: Non-stationrity learning
 Learning over sensors,
 cope with un-certainty.
